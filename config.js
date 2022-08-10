@@ -26,7 +26,7 @@ global.prefa = ['-']
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://telegra.ph/file/041ef6faa5b178d65b1a3.mp4' }
+global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/at3na"
 global.lolhuman = "HARAJIT"
 
