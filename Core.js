@@ -1344,7 +1344,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Fantox to take your WhatsApp usage into next level.
+    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: *HARAJIT* to take your WhatsApp usage into next level.
         
        「 System Info 」
     
@@ -1374,7 +1374,7 @@ const ftroli = {
     
     Type *-menu* or press any button below to start using *${global.BotName}*
     
-    ©️ *${global.BotName}* All Rights Reserved by: *Fantox*
+    ©️ *${global.BotName}* All Rights Reserved by: *HARAJIT*
     `
         const qtod = m.quoted? "true":"false"
         
@@ -1403,7 +1403,7 @@ switch(command) {
     buttons: buttons,
     headerType: 4,
     /*contextInfo:{externalAdReply:{
-    title:"Powered by Fantox",
+    title:"Powered by HARAJIT",
     body: " ", 
     thumbnail: fs.readFileSync("Assets/pic2.jpg"),
     mediaType:1,
@@ -1519,12 +1519,12 @@ break
 
 case 'support': case 'supportgc':
     
-    reply(`*My developer's group:* http://gg.gg/MikuSupport`)
+    reply(`*My developer's group:* https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt`)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`*My Source Code:* https://github.com/FantoX001/Miku-MD`)
+    reply(`*My Source Code:* https://github.com/at3na/Miku-MD`)
     break
 
 case 'nsfwmenu':
