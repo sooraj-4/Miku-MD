@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['917407138389']
-global.OwnerNumber = ['917407138389']
-global.ownertag = ['917407138389']
+global.Owner = ['917034685001']
+global.OwnerNumber = ['917034685001']
+global.ownertag = ['917034685001']
 global.BotName = "Miku"
 global.packname = "Miku bot"
-global.author = "By: HARAJIT"
-global.OwnerName = "HARAJIT"
+global.author = "By: christy ser"
+global.OwnerName = "christy ser"
 global.BotSourceCode = "https://github.com/at3na/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -28,7 +28,7 @@ global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/at3na"
-global.lolhuman = "HARAJIT"
+global.lolhuman = "christy ser"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
